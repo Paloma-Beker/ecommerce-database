@@ -9,13 +9,13 @@ O objetivo principal é consolidar conhecimentos práticos em modelagem, manipul
 
 ## 📂 Estrutura do Repositório
 
-/scripts
-
-e-commerce.sql: contém os scripts de criação das tabelas (clients, product, orders, etc.) e os inserts com dados fictícios inseridos para testes.
-
 /queries
 
 consultase-commerce.sql: consultas desenvolvidas para responder perguntas de negócio.
+
+/scripts
+
+e-commerce.sql: contém os scripts de criação das tabelas (clients, product, orders, etc.) e os inserts com dados fictícios inseridos para testes.
 
 /images
 
