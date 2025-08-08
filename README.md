@@ -9,21 +9,13 @@ O objetivo principal é consolidar conhecimentos práticos em modelagem, manipul
 
 ## 📂 Estrutura do Repositório
 
-/imagesconsultas
+- Consultations: imagens das consultas realizadas no banco de dados.
 
-imagens-consultas: imagens das consultas realizadas no banco de dados.
+- Queries - consultase-commerce.sql: consultas desenvolvidas para responder perguntas de negócio.
 
-/queries
+- Scripts -  e-commerce.sql: contém os scripts de criação das tabelas (clients, product, orders, etc.) e os inserts com dados fictícios inseridos para testes.
 
-consultase-commerce.sql: consultas desenvolvidas para responder perguntas de negócio.
-
-/scripts
-
-e-commerce.sql: contém os scripts de criação das tabelas (clients, product, orders, etc.) e os inserts com dados fictícios inseridos para testes.
-
-/images
-
-modelo-relacional.png: modelo relacional completo em português.
+- Modelo-relacional.png: modelo relacional completo em português.
 
 
 ---
