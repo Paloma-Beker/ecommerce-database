@@ -9,6 +9,10 @@ O objetivo principal é consolidar conhecimentos práticos em modelagem, manipul
 
 ## 📂 Estrutura do Repositório
 
+/imagesconsultas
+
+imagens-consultas: imagens das consultas realizadas no banco de dados.
+
 /queries
 
 consultase-commerce.sql: consultas desenvolvidas para responder perguntas de negócio.
