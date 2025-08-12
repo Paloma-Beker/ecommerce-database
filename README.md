@@ -1,13 +1,13 @@
 # 🛒 E-Commerce Database Project
 
 ---
-## 📚 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do meu processo de aprendizado durante o Bootcamp de Banco de Dados. Nele, simulei a estrutura de um banco de dados para um e-commerce, realizando desde a modelagem relacional até a criação das tabelas e execução de consultas SQL complexas.
 
 O objetivo principal é consolidar conhecimentos práticos em modelagem, manipulação e análise de dados em MySQL, contribuindo com minha evolução como futura profissional da área de dados.
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 - Consultations: imagens das consultas realizadas no banco de dados.
 
@@ -20,7 +20,7 @@ O objetivo principal é consolidar conhecimentos práticos em modelagem, manipul
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Criar e popular um banco de dados relacional que simula as operações essenciais de um e-commerce, incluindo:
 
@@ -31,25 +31,25 @@ Criar e popular um banco de dados relacional que simula as operações essenciai
 
 ---
 
-## 🧩 Modelagem Relacional
+##  Modelagem Relacional
 
 O modelo relacional foi construído com base nos principais requisitos de um e-commerce, respeitando boas práticas de normalização e clareza entre as entidades.
 
-📌 **Nota técnica:**  
+ **Nota técnica:**  
 Algumas diferenças foram aplicadas entre o modelo e o código final:
 - No diagrama, os campos de endereço (como `bairro`, `cidade`, `cep`) aparecem detalhados para evidenciar a estrutura dos dados.
 - No código SQL, eles foram simplificados para um único campo `localAddress`, visando praticidade na escrita e leitura de dados de teste.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - MySQL Workbench (para modelagem visual)
 
 
 ---
 
-## 📊 Consultas SQL
+##  Consultas SQL
 
 As consultas SQL foram criadas para responder a perguntas típicas de negócio, como:
 
@@ -63,22 +63,22 @@ As consultas SQL foram criadas para responder a perguntas típicas de negócio, 
 
 ---
 
-🧠 Aprendizados e Considerações
+## Aprendizados e Considerações
 
-Este projeto foi fundamental para consolidar habilidades práticas em:
+- Este projeto foi fundamental para consolidar habilidades práticas em:
 
-Modelagem de banco de dados relacional
+- Modelagem de banco de dados relacional
 
-Escrita de scripts SQL estruturados
+- Escrita de scripts SQL estruturados
 
-Organização e clareza de documentação técnica
+- Organização e clareza de documentação técnica
 
-Adaptação entre design lógico e implementação prática
+- Adaptação entre design lógico e implementação prática
 
-Também reforçou a importância de representar os dados de maneira fiel ao domínio do negócio, ao mesmo tempo que simplificações podem ser aplicadas no código para fins práticos.
+- Também reforçou a importância de representar os dados de maneira fiel ao domínio do negócio, ao mesmo tempo que simplificações podem ser aplicadas no código para fins práticos.
 
 ---
-🚀 Próximos passos (possíveis evoluções)
+ Próximos passos (possíveis evoluções)
 
 - Adicionar procedimentos armazenados ou triggers
 
@@ -88,9 +88,14 @@ Também reforçou a importância de representar os dados de maneira fiel ao dom�
 
 - Internacionalizar os campos e dados do modelo
 
-👩‍💻 Autora
+---
+
+## 👩‍💻 Autora
+
 Paloma Beker
+
 Estudante de Ciência de Dados 
+
 Contato: [LinkedIn](https://www.linkedin.com/in/paloma-beker/) 
 
 
